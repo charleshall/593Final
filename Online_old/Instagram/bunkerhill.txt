@@ -1,0 +1,11 @@
+lat,long,insta,img,
+34.095776514 , -118.344489355 , https://instagram.com/p/uY_YLLP3E5/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10723815_1499791213609599_1247940901_n.jpg
+34.095859705 , -118.344370751 , https://instagram.com/p/uY0w_ZFqQf/ , https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10724659_717034731699234_1736280143_n.jpg
+34.0522342 , -118.2436849 , https://instagram.com/p/raFAZkiH72/ , https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/10554086_816934885003615_1734031678_n.jpg
+34.050555621 , -118.255182497 , https://instagram.com/p/q1x0iJCHwK/ , https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/10475101_1448865858728373_766908047_n.jpg
+34.052879 , -118.252208 , https://instagram.com/p/o0lvj7uS1z/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10448912_686331814766809_1158477043_n.jpg
+34.0522 , -118.243 , https://instagram.com/p/oXXzGrkIkP/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10375667_1381745758781809_1554497458_n.jpg
+34.051053949 , -118.265501517 , https://instagram.com/p/iFJYcSEIqE/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/1172226_464645123645578_541624944_n.jpg
+34.03069762 , -118.405564899 , https://instagram.com/p/iAjUBAkIo9/ , https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/1515361_266426413482206_549695163_n.jpg
+34.051372 , -118.250861 , https://instagram.com/p/h9hZwMEIo4/ , https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/1516949_226483297524985_850244006_n.jpg
+34.052 , -118.253833333 , https://instagram.com/p/eZsqWkOSyu/ , https://scontent.cdninstagram.com/hphotos-xfa1/outbound-distilleryimage6/t0.0-17/OBPTH/a7d1b998205c11e3b09522000a1f9363_7.jpg

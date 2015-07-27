@@ -1,0 +1,26 @@
+lat,long,insta,img
+34.040804 , -118.263194 , https://instagram.com/p/0OOu5fgmVq/ , https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11005147_1631722650391358_490454560_n.jpg
+34.046982655 , -118.261161197 , https://instagram.com/p/z4IW7MBHxx/ , https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10956267_1553105624965033_546688450_n.jpg
+34.041061167 , -118.264428333 , https://instagram.com/p/zOb2mVmfMF/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10727694_1663915390502785_236816881_n.jpg
+34.041759238 , -118.264453184 , https://instagram.com/p/saHq7BBUwD/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10655060_1466323066977564_376276220_n.jpg
+34.042887175 , -118.261300715 , https://instagram.com/p/sTF3o5hUxF/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10538694_294053897446270_838026451_n.jpg
+34.049625 , -118.245596667 , https://instagram.com/p/qA7ExBusuM/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10449129_246275065583730_769622889_n.jpg
+34.041667715 , -118.264376241 , https://instagram.com/p/p4XfipBU7p/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10520189_1466010680313533_92111960_n.jpg
+33.99658897 , -118.481108761 , https://instagram.com/p/oyQvrEuslf/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10254273_663749433673509_1498581297_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/opWtvuussV/ , https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e15/10358331_243220449206816_1254113728_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/n_-EcousrW/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/925880_493564640766747_730001330_n.jpg
+34.049943691 , -118.246024341 , https://instagram.com/p/nhNkK4usg3/ , https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10254180_640544036040274_2101206725_n.jpg
+33.996400421 , -118.481066003 , https://instagram.com/p/nfEQB8usjv/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10310999_660892090650567_1521431860_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/nW8ZClusiQ/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10326475_737434622944351_2065605701_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/nO2jxAusuV/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10310962_1424911394434327_1831010012_n.jpg
+33.996556406 , -118.481021673 , https://instagram.com/p/nM4r2zusur/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/1538439_1377543229186898_410839036_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/nHWYUMOspL/ , https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/1527748_244556349062978_1176625535_n.jpg
+34.0499945 , -118.245658333 , https://instagram.com/p/m9cYdxOsox/ , https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/915430_645054925561639_522933138_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/l0RpeIlbsM/ , https://scontent.cdninstagram.com/hphotos-xpf1/outbound-distilleryimage4/t0.0-17/OBPTH/cc6aa66ab13011e3acf0124e08cbccc4_8.jpg
+34.050251 , -118.24541 , https://instagram.com/p/lya2ArOsoT/ , https://scontent.cdninstagram.com/hphotos-xap1/outbound-distilleryimage5/t0.0-17/OBPTH/8a60cd04b09e11e3b7d2127ea6e65569_8.jpg
+34.007702382 , -118.490211141 , https://instagram.com/p/lMM839uskJ/ , https://scontent.cdninstagram.com/hphotos-xfa1/outbound-distilleryimage9/t0.0-17/e15/OBPTH/6072861aa4f311e390231246c9b0a4e5_8.jpg
+34.050251 , -118.24541 , https://instagram.com/p/lJcrywusoG/ , https://scontent.cdninstagram.com/hphotos-xpa1/outbound-distilleryimage7/t0.0-17/OBPTH/5680d9b6a41e11e392db12e25f465f4f_8.jpg
+34.050251 , -118.24541 , https://instagram.com/p/k04m7AOsrc/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/1971464_258902624284289_29231503_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/koBS-Nusn1/ , https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e15/1742953_1440194206216472_1629614498_n.jpg
+34.050251 , -118.24541 , https://instagram.com/p/kii2V5usiT/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/927274_656217281105210_1946058627_n.jpg
+34.041687 , -118.263084 , https://instagram.com/p/kTy95PJSG7/ , https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/1738016_518820534902817_630125039_n.jpg

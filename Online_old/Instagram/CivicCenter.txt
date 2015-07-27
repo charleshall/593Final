@@ -1,0 +1,4 @@
+lat,long,insta,img,
+34.05618693 , -118.2472458 , https://instagram.com/p/xXWNKXI8-9/ , https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10865118_1760661250826153_481290165_n.jpg
+34.053666667 , -118.243166667 , https://instagram.com/p/a1WAoOBabC/ , https://scontent.cdninstagram.com/hphotos-xpa1/outbound-distilleryimage10/t0.0-17/OBPTH/811497dadaac11e2b3f322000a1f96e5_7.jpg
+34.054409 , -118.246708 , https://instagram.com/p/aXKNkpJ3TW/ , https://scontent.cdninstagram.com/hphotos-xfa1/outbound-distilleryimage2/t0.0-17/e15/OBPTH/5a49ee46d17611e2a0d822000a1f9a12_7.jpg
